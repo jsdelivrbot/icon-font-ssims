@@ -6,4 +6,4 @@ The _icons.sass file can be used to include in your sass workflow. You should in
 
 [example](https://rawgit.com/wouterhoogstra/icon-font-ssims/master/icons.html)
 
-![Thales Nederland](https://rawgit.com/wouterhoogstra/icon-font-ssims/master/images/logo.png "Thales Nederland")
+![Thales Nederland](https://cdn.jsdelivr.net/gh/wouterhoogstra/icon-font-ssims@master/images/logo.png "Thales Nederland")
